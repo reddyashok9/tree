@@ -1,4 +1,4 @@
 import { Tree } from '../index';
-test('My Greeter', () => {
+test('Tree Start', () => {
     expect(Tree('Carl')).toBe('Hello Carl');
 });
